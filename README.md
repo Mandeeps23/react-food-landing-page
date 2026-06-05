@@ -1,18 +1,47 @@
-# react-food-landing-page
-Modern Food Landing Pag# Food Landing Page
+# React Food Landing Page
 
-A modern and responsive food landing page built using HTML, CSS, and JavaScript.
+A modern and responsive Food Landing Page built with HTML, CSS, and JavaScript. The project focuses on clean UI design, responsive layouts, and an engaging user experience.
 
-## Features
-- Responsive Design
-- Modern UI
-- Smooth Navigation
-- Clean Layout
+## 🚀 Project Overview
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+This project showcases a modern restaurant/food business landing page featuring:
 
-## Author
-Mandeep Singhe built with HTML, CSS and JavaScript
+* Hero Section
+* Featured Dishes
+* About Section
+* Contact Section
+* Responsive Design
+* Modern UI/UX
+
+## ✨ Features
+
+* Fully Responsive Design
+* Mobile Friendly Layout
+* Modern Navigation Bar
+* Clean and Professional UI
+* Smooth User Experience
+* Cross-Browser Compatibility
+
+## 🛠 Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+
+
+## 🌐 Live Demo
+
+Coming Soon
+
+## 📂 GitHub Repository
+
+https://github.com/Mandeeps23/react-food-landing-page
+
+## 👨‍💻 Author
+
+Mandeep Singh
+
+Frontend Developer | UI Developer
+
+GitHub: https://github.com/Mandeeps23
