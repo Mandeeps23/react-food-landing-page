@@ -30,9 +30,9 @@ This project showcases a modern restaurant/food business landing page featuring:
 
 
 
-## 🌐 Live Demo
+## Live Demo
 
-Coming Soon
+https://mandeeps23.github.io/react-food-landing-page/
 
 ## 📂 GitHub Repository
 
